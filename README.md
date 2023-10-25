@@ -4,69 +4,43 @@ Consolidating all the learnings I am accumulating outside of work
 
 ## GitHub
 
-- [ ] [MASTER GIT & GITHUB FOR FREE](https://twitter.com/mdjunaidap/status/1567403764188938240)
-  - [ ] Website
-    - [ ] [Git and GitHub Mdn Docs](https://t.co/UjJvO52hbl)
-    - [ ] [Git Tutorial](https://t.co/4UAqfj6GrF)
-    - [ ] [Become a Git Guru](atlassian.com/git/tutorials)
-  - [ ] Videos
-    - [ ] [Git Tutorial for Beginners: Learn Git in 1 Hour](https://t.co/JJ5Sk368C0)
-    - [ ] [Git and GitHub for Beginners - Crash Course](https://t.co/zNBvN0uywq)
-    - [ ] [Git & GitHub Full Course in 5 Hours](https://www.youtube.com/watch?v=KMOmw19ZCGs&ab_channel=edureka%21)
-    - [ ] [Free Git and GitHub course on Udemy](https://t.co/VM2MbvoFc2)
-  - [ ] Git Cheatsheets
-    - [ ] [Cheatography Git](https://t.co/RR4sppdiVZ)
-    - [ ] [overapi](https://t.co/gW4frcmuJP)
-    - [ ] [GitSheet](https://t.co/mweWFkJNqa)
+- [x] [MASTER GIT & GITHUB FOR FREE](https://twitter.com/mdjunaidap/status/1567403764188938240)
 
 ## Web Development/Front-End/Back-End/Full-Stack
 
-- [ ] [Web Development Resources](https://twitter.com/CirrusNFT/status/1574421050888028160)
-- [ ] [Web Development Resources Breakdown](https://twitter.com/hasantoxr/status/1585597726980456450)
-- [ ] [Web Development Resources Breakdown FREE](https://twitter.com/hasantoxr/status/1603359000149471232)
-- [ ] [Master React](https://twitter.com/hasantoxr/status/1586719693443928064)
+- [x] [Web Development Resources](https://twitter.com/CirrusNFT/status/1574421050888028160)
+- [x] [Web Development Resources Breakdown](https://twitter.com/hasantoxr/status/1585597726980456450)
+- [x] [Web Development Resources Breakdown FREE](https://twitter.com/hasantoxr/status/1603359000149471232)
+- [x] [Master React](https://twitter.com/hasantoxr/status/1586719693443928064)
+- [x] [Web3 Developer Roadmap](https://twitter.com/hasantoxr/status/1600824081460318209)
+- [x] [Backend - Learn Node.jk and MongoDB](https://twitter.com/emiko_dev/status/1674989331524591617)
+- [x] [Full Stack Developers 101](https://twitter.com/ujjwalscript/status/1609818681294606338)
 - [ ] [Tips from Self-Taught Developer](https://twitter.com/Lauramaywendel/status/1588515586006732802)
-- [ ] [Web3 Developer Roadmap](https://twitter.com/hasantoxr/status/1600824081460318209)
 - [ ] [Belajar Deployment Front-End App](https://twitter.com/mhdnauvalazhar/status/1709027366356591050)
-- [ ] [Backend - Learn Node.jk and MongoDB](https://twitter.com/emiko_dev/status/1674989331524591617)
 - [ ] [ASAPFrontEnd - Learn to Code](https://twitter.com/imanmcodes/status/1700717374637531363)
-- [ ] [Full Stack Developers 101](https://twitter.com/ujjwalscript/status/1609818681294606338)
 
 ## Cybersecurity/Ethical Hacking
 
-- [ ] [Platforms to Learn Cybersecurity](https://twitter.com/SecurityTrybe/status/1701549823554367694)
-- [ ] [Cybersecurity in 90 Days](https://twitter.com/BowTiedCyber/status/1663646720901935104)
+- [x] [Learn Linux](https://twitter.com/simonholdorf/status/1593539725998325760)
+- [x] [Platforms to Learn Cybersecurity](https://twitter.com/SecurityTrybe/status/1701549823554367694)
+- [x] [Cybersecurity in 90 Days](https://twitter.com/BowTiedCyber/status/1663646720901935104)
+- [x] [YouTube Channels To Master Hacking At No Cost](https://twitter.com/SecurityTrybe/status/1715107972525813890)
 - [ ] [Cybersecurity Roadmap](https://twitter.com/terpalingcyber/status/1708061038846099609)
-- [ ] [YouTube Channels To Master Hacking At No Cost](https://twitter.com/SecurityTrybe/status/1715107972525813890)
-- [ ] [Learn Linux](https://twitter.com/simonholdorf/status/1593539725998325760)
+- [ ] [Certified Ethical Hacker (CEHv12)](https://github.com/Certification-Training/CEHv12)
+- [ ] [7 Coursera Courses - Web Development to Cybersecurity](https://twitter.com/hasantoxr/status/1589617521933651968)
 
 ## Data Science
 
+- [x] [Master SQL](https://twitter.com/vikasrajputin/status/1586937260607361024)
+- [x] [Learn Excel 101 for Free](https://twitter.com/LiuLindberg/status/1706972031399383262)
 - [ ] [Complete Data Science](https://twitter.com/khalilApriday/status/1707710578490220900)
-- [ ] [Master SQL](https://twitter.com/vikasrajputin/status/1586937260607361024)
 - [ ] [Belajar SQL](https://twitter.com/NabilTaki92/status/1660854279840714754)
 - [ ] [SQL Roadmap with Youtube Resources](https://twitter.com/AdarshChetan/status/1715221890640593069)
 - [ ] [5 Datasets to Practise Data Cleaning](https://twitter.com/thenaijacarguy/status/1708475354711535933)
-- [ ] [Learn Excel 101 for Free](https://twitter.com/LiuLindberg/status/1706972031399383262)
 
 ## Copywriting
 
 - [ ] [EFFECTIVE COPY](https://twitter.com/jonbrosio/status/1562077234252365827)
-
-  - [ ] [Write Like Amazonian](https://twitter.com/alexgarcia_atx/status/1416777142445166592)
-  - [ ] [17 Tips for Great Copy](https://twitter.com/GoodMarketingHQ/status/1258052549246140416)
-  - [ ] [Copy for Ads, Emails and Sites](https://twitter.com/jmoserr/status/1417141231075749889)
-  - [ ] [10X Your Writing (in under 2 min)](https://twitter.com/charlesmiller_7/status/1547206346419818496)
-  - [ ] [Copy Tactics of World's Top Businesses](https://twitter.com/heykahn/status/1521161352613490689)
-  - [ ] [Copywriting Resources](https://twitter.com/DanesaGlez/status/1502611634413580293)
-  - [ ] [Write fast copy](https://twitter.com/HatchKolby/status/1379557621120794628)
-  - [ ] [Content writing 101](https://twitter.com/amandanat/status/1473698333747204104)
-  - [ ] [Monetizing your content](https://twitter.com/thejustinwelsh/status/1486473719723831306)
-  - [ ] [Storytelling 101](https://twitter.com/wes_kao/status/1495065668546408456)
-  - [ ] [On writing well](https://twitter.com/matt_gray_/status/1533060275485790210)
-  - [ ] [Writing mistakes to avoid](https://twitter.com/ItsKieranDrew/status/1559520608521801729)
-  - [ ] [BONUS - Copywriting (in a nutshell)](https://twitter.com/dickiebush/status/1445375496636743682)
-
 - [ ] [9 COPYWRITING FRAMEWORKS](https://twitter.com/giannicara/status/1573003449196740608)
 
 ## Health
@@ -90,13 +64,11 @@ Consolidating all the learnings I am accumulating outside of work
 - [ ] [Free Google Data Scientist Certification](https://twitter.com/Nilofer_tweets/status/1589620576293113858)
 - [ ] [5 Websites Offering Free Certification Courses](https://twitter.com/hasantoxr/status/1604752682723540993)
 - [ ] [Become a Certified Ethical Hacker](https://twitter.com/python_spaces/status/1638381536000241664)
-- [ ] [Certified Ethical Hacker (CEHv12)](https://github.com/Certification-Training/CEHv12)
 - [ ] [CISCO FREE Training and Certifications](https://twitter.com/ezekiel_aleke/status/1707671329929904310)
 - [ ] [FREE AWS-Related Courses/Certification](https://twitter.com/saidul_dev/status/1713417268972187918)
 - [ ] [CISSP - Certified Information Systems Security Professional](https://twitter.com/CyberPatronMC/status/1713587101495689233)
 - [ ] [IBM FREE Courses with a Certificate](https://twitter.com/saidul_dev/status/1714863346238070964)
 - [ ] [6 Harvard Courses](https://twitter.com/denicmarko/status/1584850599899631616)
-- [ ] [7 Coursera Courses - Web Development to Cybersecurity](https://twitter.com/hasantoxr/status/1589617521933651968)
 - [ ] [FREE Courses in 2023](https://twitter.com/denicmarko/status/1609869920539394049)
 - [ ] [Microsoft Free Beginner Courses in Data Science, Machine Learning and AI](https://twitter.com/TomMitchellData/status/1675051153682227200)
 - [ ] [Misc. Tech Resources](https://twitter.com/oliviabrxtn/status/1585747647415013376)
@@ -128,10 +100,8 @@ Consolidating all the learnings I am accumulating outside of work
 
 - [ ] [11 Free No-Code Business Tools](https://twitter.com/Zbijelic/status/1571918129181396993)
 - [ ] [24 No-Code Business Tools](https://twitter.com/heyeaslo/status/1585457798535593984)
-
 - [ ] [10 Chrome Extensions So Useful That You Will Install Them Right Away](https://twitter.com/Prathkum/status/1563844863497469955)
 - [ ] [10 Chrome Extensions You'll Wish You Knew Sooner](https://twitter.com/hasantoxr/status/1586356231672926209)
-
 - [ ] [Learn System Design](https://twitter.com/DataScienceDojo/status/1659635036855861250)
 - [ ] [Switching to a 𝗠𝗟𝗢𝗽𝘀 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 Role](https://twitter.com/Aurimas_Gr/status/1675092981546713090)
 - [ ] [Pandas Cheat Sheet (PDF)](https://twitter.com/pyquantnews/status/1707787736126509453)
