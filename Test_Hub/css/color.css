@@ -1,0 +1,31 @@
+/* 
+
+Color Properties
+1. Color
+2. Background-Color = Background
+
+Color Names (140)
+RGB (0 - 255)
+RGBA (0 - 1) opacity/transparency
+HSL - Hue Saturation Lightness [Not Covered]
+HEX values (#RRGGBB = #000000 - #FFFFFF) 
+
+*/
+
+#first {
+  color: cyan;
+  background-color: hsl(0, 100%, 75%);
+}
+
+#second {
+  color: rgb(255, 0, 255);
+  background-color: #00ffff;
+}
+
+p {
+  color: rgba(0, 145, 200, 0.75);
+}
+
+body {
+  background: rgba(255, 255, 0, 0.32);
+}

@@ -1,0 +1,42 @@
+.banner {
+  border: 5px solid red;
+  padding: 10px;
+  overflow: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* img {
+  float: right;
+} */
+
+.one {
+  float: right;
+  margin-left: 50px;
+}
+
+div {
+  float: left;
+  height: 400px;
+  width: 33.33%;
+}
+
+.eg1 {
+  background: red;
+}
+
+.eg2 {
+  background: blue;
+}
+
+.eg3 {
+  background: green;
+}
+
+h1 {
+  clear: both;
+}

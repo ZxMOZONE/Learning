@@ -1,0 +1,95 @@
+/* 
+
+Unit Properties
+1. font-size
+
+2. width
+
+3. height
+
+*/
+
+/* Absolute Values */
+/* pixel (absolute) will always be absolute to pixel constantly */
+/* h1 {
+  font-size: 60px;
+  width: 200px;
+  height: 300px;
+  background: blue;
+} */
+
+/* Percent Values */
+/* percent (relative) will always be relative to parent properties */
+.outer {
+  width: 500px;
+  height: 500px;
+  background: #0000ff;
+}
+
+.inner {
+  width: 50%;
+  height: 400%;
+  background: red;
+}
+
+/* em Values */
+/* 
+(Relative) Depends on parent
+1em = 16px default browser style
+1em = base value 
+*/
+/* div {
+  font-size: 16px;
+}
+.Relative {
+  font-size: 2em;
+}
+.Absolute {
+  font-size: 40px;
+} */
+
+/* rem Values */
+/* 
+(Relative) Depends on root
+1rem = 16px default browser style
+*/
+
+/* html is the root */
+/* div is the parent */
+
+/* html {
+  font-size: 32px;
+} 
+
+div {
+  font-size: 16px;
+} 
+
+.Relative {
+  font-size: 2rem;
+}
+.Absolute {
+  font-size: 32px;
+} */
+
+/* vh and vw value */
+/* 
+vh - height - percent of screen
+vw - width - percent of screen 
+*/
+
+.banner {
+  width: 50vw;
+  height: 50vh;
+  background: black;
+}
+
+/* .header {
+  width: 50vw;
+  height: 50vh;
+  background: violet;
+} */
+
+/* h1 {
+  font-weight: lighter;
+} */

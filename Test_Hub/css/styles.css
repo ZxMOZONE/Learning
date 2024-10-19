@@ -1,0 +1,98 @@
+/* CSS Rule */
+/* -------- */
+
+/* Selectors */
+/* Basically whatever element/attribute that we are selecting */
+
+/* Declaration Block */
+/* {} - Curly Bracket is the declaration = Property + Value 
+Properties must be separated with ; */
+
+/* Property */
+/* Color, width, position etc */
+
+/* Value */
+/* Value given to the property */
+
+/* body {
+  color: blue;
+}
+
+#heading {
+  color: brown;
+  background: black;
+}
+
+#subheading {
+  color: green;
+  background: grey;
+} */
+
+/* h1 {
+  color: brown;
+}
+
+h2 {
+  color: green;
+}
+
+p {
+  color: grey;
+} */
+
+/* h1,
+h2 {
+  color: aqua;
+} */
+
+/* Class Selectors */
+/* ID needs to be unique, while class is a group and reusable */
+
+#title {
+  font-size: 40px;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+  background: grey;
+}
+
+/* DIV SPAN - used for grouping */
+/* Block Level -Will start new line like <br> */
+div {
+  color: blue;
+}
+/* Inline Level */
+span {
+  text-transform: uppercase;
+}
+
+/* Inheritance */
+/* 
+  Parent class/element
+  ∟ Child class/element
+    ∟ Grandchild class/element
+*/
+
+/* Last Rule will Over-rule */
+/* If you set id or class, the properties will follow the specificity */
+p {
+  color: violet;
+}
+
+p {
+  color: black;
+}
+
+/* Universal Selector - Least Powerful */
+* {
+  color: olive;
+}

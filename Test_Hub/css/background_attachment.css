@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  min-height: 100vh;
+  color: green;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.big-img {
+  border: 2px solid blue;
+  background: url("../images/007_Robot_Big_Image.webp");
+  background-attachment: fixed;
+}
+
+.small-img {
+  border: 2px solid red;
+  /* background: url("../images/008_Robot_Small_Image.jpg"); */
+  background: url("../images/Test/009_Robot_Folder_Image.webp");
+  background-attachment: fixed;
+}
+
+.folder-img {
+  border: 2px solid green;
+  /* background: url("../images/Test/009_Robot_Folder_Image.webp"); */
+  background: url("../images/007_Robot_Big_Image.webp");
+  background-attachment: fixed;
+}

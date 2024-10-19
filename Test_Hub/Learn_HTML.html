@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Hub</title>
+    <!-- External CSS -->
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+
+  <body>
+    <h2 id="top">Top of the Page</h2>
+    <br /><a href="#bottom">Go to the bottom</a><br />
+
+    <a href="./index.html">Home Page</a>
+    <br />
+    <a href="./Learn_HTML.html">HTML Hub</a>
+    <br />
+    <br />
+    <a href="./Learn_CSS.html">CSS Hub</a>
+    <br />
+    <a href="./colors.html">∟ Color Tutorial</a>
+    <br />
+    <a href="./units.html">∟ Unit Tutorial</a>
+    <br />
+    <a href="./calc.html">∟ Calc Function Tutorial</a>
+    <br />
+    <a href="./typography.html">∟ Typography Tutorial</a>
+    <br />
+    <a href="./box_model.html">∟ Box Model Tutorial</a>
+    <br />
+    <a href="./display_property.html">∟ Display Property Tutorial</a>
+    <br />
+    <a href="./mobile_navbar.html">∟ Mobile Navbar Tutorial</a>
+    <br />
+    <a href="./box-sizing_border-box.html">∟ Box-Sizing Border-Box Tutorial</a>
+    <br />
+    <a href="./display_opacity_visibility.html">∟ Display:none, Opacity, Visibility</a>
+
+    <h1>Hello, my name is ZxMO!</h1>
+    <p>And this is my first WebPage and it is very good!!!</p>
+
+    <!-- Heading Element -->
+    <!-- <h1>h1</h1>
+    <h2>h2</h2>
+    <h3>h3</h3>
+    <h4>h4</h4>
+    <h5>h5</h5>
+    <h6>h6</h6> -->
+
+    <!-- Paragraph Element -->
+    <!-- <p>This is a paragraph</p> -->
+
+    <!-- HTML is white-space collapsing -->
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam fugit
+      cumque odit beatae fuga alias accusamus nulla eius rem magnam vitae
+      voluptate eum sint facilis, odio ullam labore ab. Alias.
+    </p>
+    <!-- See that the space and next line is being ignored on the live server -->
+
+    <!-- Linebreak -->
+    <p>
+      Lorem ipsum dolor sit amet consectetur <br />
+      adipisicing elit. Incidunt consequatur magnam harum nesciunt nulla, <br />
+      cum voluptatum repellat id error provident culpa dolor hic ipsum,
+      exercitationem aliquam temporibus <br />
+      accusantium maxime! Illo exercitationem autem laudantium sit, veniam
+      distinctio vitae delectus minima expedita omnis <br />
+      nihil corporis alias, voluptates soluta, labore mollitia temporibus velit.
+    </p>
+
+    <!-- Sup and Sub Elements -->
+    <h1>
+      Hello! I'm the 1<sup>st</sup>! <br />
+      ZxMO<sub>ZONE</sub>
+    </h1>
+    <!-- Strong and Emphasis Elements -->
+    <p>
+      Lorem, ipsum dolor sit amet <strong>consectetur</strong> adipisicing elit.
+      Soluta voluptatem esse ea itaque veniam ex voluptas
+      <em>praesentium? Maiores labore,</em> inventore necessitatibus facilis
+      sunt culpa quam porro suscipit, laudantium voluptatum dolore.
+    </p>
+
+    <!-- Special Character -->
+    <h1>copyright &copy;</h1>
+    <!-- Refer special characters table online for HTML -->
+
+    <!-- Image sourced from web address -->
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/36/36411.png"
+      alt="001_Robotic_Logo"
+    />
+
+    <!-- Image sourced from local file -->
+    <img
+      src="/Learning/Prototype_Hub/images/001_Robotic_Logo.png"
+      alt="001_Robotic_Logo"
+    />
+    <!-- we will mostly use this -->
+    <img src="./images/001_Robotic_Logo.png" alt="001_Robotic_Logo" />
+
+    <!-- Alt attribute from img element, in case src is wrong -->
+    <img src="/001_Robotic_Logo.png" alt="001_Robotic_Logo" />
+
+    <!-- Image resizing | width and height attributes -->
+    <!-- Browser will still be rendering the big image, increasing loading time -->
+    <img src="./images/002_Robotic_Body.jpg" alt="002_Robotic_Body" />
+    <img
+      src="./images/002_Robotic_Body.jpg"
+      width="512"
+      height="512"
+      alt="002_Robotic_Body"
+    />
+    <!-- Resizing before publishing will save loading time -->
+    <img
+      src="./images/002_Robotic_Body_Resized.jpg"
+      alt="002_Robotic_Body_Resized"
+    />
+
+    <!-- Link -->
+
+    <!-- External Link (Uncomment to see differences)-->
+    <br /><a href="https://www.linkedin.com/in/hazmanhussin/">LinkedIn</a>
+    <!-- Set target attribute to prevent user from leaving webpage (new tab) -->
+    <br /><a href="https://www.linkedin.com/in/hazmanhussin/" target="_blank"
+      >LinkedIn (New Tab)</a
+    >
+
+    <!-- Internal Link -->
+    <!-- e.g. Next HTML page -->
+    <br /><br />
+    <a href="./Learning_Hub.html">Learning Page</a><br />
+    <a href="./index.html">Home Page</a><br />
+    <a href="./about.html">About</a><br />
+
+    <!-- Page ID (ID attribute) -->
+    <br /><a href="#top">Back to the top</a>
+    <h1 id="bottom"></h1>
+    <br />
+
+    <!-- Link Within Image -->
+    <!-- Replace text of link with img element -->
+    <a href="./Learning_Hub.html"
+      ><img
+        src="./images/001_Robotic_Logo.png"
+        width="50"
+        alt="001_Robotic_Logo" /></a
+    ><br />
+
+    <!-- Empty Link (Dummy - Lead to Nowhere) -->
+    <a href="#">Dummy</a>
+
+    <!-- Unordered vs Ordered List -->
+    <ul>
+      <li>Hazman</li>
+      <li>
+        Hussin
+        <ol>
+          <li>Fitri</li>
+          <li>Hafiez</li>
+          <li>Hasif</li>
+          <li>Adibah</li>
+          <li>Hazman</li>
+          <li>Hanis</li>
+        </ol>
+      </li>
+    </ul>
+
+    <ol>
+      <li>Hazman</li>
+      <li>Hussin</li>
+    </ol>
+
+    <!-- Tables -->
+    <table>
+      <tr>
+        <th>Date</th>
+        <th>Title</th>
+        <th>Amount</th>
+        <th>Category</th>
+      </tr>
+      <tr>
+        <td>09/09/2024</td>
+        <td>Family Store</td>
+        <td>RM100</td>
+        <td>Groceries</td>
+      </tr>
+      <tr>
+        <td>10/09/2024</td>
+        <td>MARA</td>
+        <td>RM150</td>
+        <td>Education</td>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <!-- Forms -->
+    <form action="">
+      <label for="Name">First Name</label>
+      <input type="text" name="Name" id="Name" />
+
+      <input type="submit" />
+      <button type="submit">Submit</button>
+    </form>
+
+    <!-- Dummy Form -->
+    <form action="" method="">
+      <!-- <input type="text" name="id" id="id" placeholder="UserID"> -->
+      <div>
+        <input type="email" name="email" id="email" value="e-mail@domain.com" />
+        <br />
+        <input
+          type="password"
+          name="password"
+          id="password"
+          placeholder="password"
+        />
+
+        <br />
+        <p>Description</p>
+        <textarea name="" id="Description" cols="30" rows="10"></textarea>
+        <br />
+
+        <p>Please Select Your Favorite Food:</p>
+        <input
+          type="radio"
+          name="Food"
+          id="Spaghetti"
+          value="Spaghetti"
+          checked
+        />Spaghetti
+        <input type="radio" name="Food" id="Rice" value="Rice" />Rice
+        <input type="radio" name="Food" id="Bread" value="Bread" />Bread
+
+        <br />
+        <p>Please Select Your Favorite Drink:</p>
+        <input
+          type="checkbox"
+          name="Drink"
+          id="Milk"
+          value="Milk"
+          checked
+        />Milk
+        <input type="checkbox" name="Drink" id="Coffee" value="Coffee" />Coffee
+        <input type="checkbox" name="Drink" id="Tea" value="Tea" />Tea
+        <br />
+
+        <p>Please Select Your Favorite Snacks:</p>
+        <select name="Snacks" id="Snacks">
+          <option value="">Select</option>
+          <option value="Chips">Chips</option>
+          <option value="Fruits">Fruits</option>
+        </select>
+
+        <div>
+          <br />
+        </div>
+        <input type="text" name="name" id="name" />
+        <button type="submit">Submit</button>
+        <!-- <input type="submit" value="Submit" /> -->
+        <input type="reset" value="Reset" />
+      </div>
+    </form>
+
+    <br /><a href="#top">Back to the top</a>
+    <h1 id="bottom"></h1>
+    <br />
+  </body>
+</html>

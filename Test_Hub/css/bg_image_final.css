@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 60px;
+  color: orange;
+}
+
+.banner {
+  background: url("../images/007_Robot_Big_Image.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.header {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1.0)),
+    url(../images/007_Robot_Big_Image.webp) center/cover no-repeat fixed;
+}

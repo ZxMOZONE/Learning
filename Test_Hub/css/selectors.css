@@ -1,0 +1,101 @@
+/* Basic Selectors */
+/* * {
+  color: red;
+}
+
+#Heading {
+  font-size: 40px;
+  text-transform: uppercase;
+  color: blue;
+}
+
+.Heading {
+  font-size: 20px;
+  text-transform: lowercase;
+  color: green;
+}
+
+p {
+  letter-spacing: 20px;
+} */
+
+/* Descendant and Child Combinators */
+/* div h1 {
+  color: red;
+}
+
+.Header h1 {
+  color: green;
+} */
+
+/* Direct Children of The Ancestor */
+/* div > h1 {
+  color: blue;
+}
+
+.Header > h1 {
+  color: yellow;
+} */
+
+/* ::first-line and ::first-letter */
+/* p::first-line {
+  font-weight: bold;
+}
+
+p::first-letter {
+  font-size: 3rem;
+} */
+
+/* :hover */
+/* p:hover {
+  color: red;
+}
+
+.Header:hover {
+  background: black;
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+} */
+
+/* :link :visited :hover :active */
+/* a:link {
+  color: red;
+}
+
+a:visited {
+  text-decoration-color: blue;
+  color: green;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: yellow;
+} */
+
+/* :Root Preudo-Class Selectors */
+:root {
+  background: #000;
+  color: white;
+  font-size: 150%;
+}
+
+* {
+  background: blue;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.absolute {
+  font-size: 24px;
+}
+.responsive {
+  font-size: 1.5rem;
+}

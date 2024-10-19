@@ -1,0 +1,52 @@
+/* Typography */
+
+/* font-size font-family */
+/* font-family will choose next option in the font stack if first one not available " " will be chosen first */
+
+/* text-align */
+/* set the alignment of paragraph/text to set position */
+
+/* text-indent */
+
+/* More Text Properties */
+/* 
+line-height
+letter-spacing
+word-spacing
+text-transform
+text-decoration 
+*/
+
+body {
+  font-family: Arial;
+}
+
+h1 {
+  font-family: "Yesteryear", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+/* Google Fonts */
+p {
+  font-family: "Protest Guerrilla", sans-serif;
+  text-align: justify;
+  text-indent: 50px;
+  line-height: 2em;
+  letter-spacing: 5px;
+  word-spacing: 20px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.protest-guerrilla-regular {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.yesteryear-regular {
+  font-family: "Yesteryear", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
