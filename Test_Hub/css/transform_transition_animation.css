@@ -1,0 +1,233 @@
+/* Transform - Translate */
+
+/* div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+.one {
+  background: red;
+  transform: translateX(50%);
+}
+
+.two {
+  background: green;
+  transform: translateY(30px);
+}
+
+.three {
+  background: blue;
+  transform: translate(75px, 50px);
+} */
+
+/* Transform - Scale */
+
+/* div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+.one {
+  background: red;
+  transform: scaleX(0.5);
+}
+
+.two {
+  background: green;
+  transform: scaleY(0.5);
+}
+
+.three {
+  background: blue;
+  transform: scale(0.5, 0.5);
+} */
+
+/* Transform - Rotate */
+
+/* div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+.one {
+  background: red;
+  transform: rotateZ(60deg);
+}
+
+.two {
+  background: green;
+  transform: rotate(60deg);
+}
+
+.three {
+  background: blue;
+  transform: rotateX(60deg);
+  transform: rotateY(12deg);
+} */
+
+/* Transform - Skew */
+
+/* div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+.one {
+  background: red;
+  transform: skewX(20deg);
+}
+
+.two {
+  background: green;
+  transform: skewY(-20deg);
+}
+
+.three {
+  background: blue;
+  transform: skew(20deg, -40deg);
+} */
+
+/* Transition */
+/* transition: property duration delay; */
+
+/* div {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+div:hover {
+  background: coral;
+}
+
+.one {
+  background: red;
+  transition-property: background, border-radius;
+  transition-duration: 1s, 4s;
+  transition-delay: 1s;
+}
+
+.two {
+  background: green;
+}
+
+.three {
+  background: blue;
+  transition: background 3s 1s, border-radius 3s 1s;
+}
+
+.three:hover {
+  border-radius: 50%;
+  background: black;
+} */
+
+/* Transition-Timing */
+/* transition: property duration timing delay; */
+
+/* div {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  color: white;
+  margin: 15px;
+  transition: all 1s;
+}
+
+div:hover {
+  transform: translateX(100px);
+}
+
+.ease {
+  transition-timing-function: ease;
+}
+
+.linear {
+  transition-timing-function: linear;
+}
+
+.ease-in {
+  transition-timing-function: ease-in;
+}
+
+.ease-out {
+  transition-timing-function: ease-out;
+}
+
+.ease-in-out {
+  transition-timing-function: ease-in-out;
+} */
+
+/* Animation */
+/* animation: name duration iteration */
+
+/* div {
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+  color: white;
+}
+
+.transition {
+  background: red;
+  transition: all 2s linear;
+}
+
+.transition:hover {
+  background: blue;
+  transform: translateX(100px);
+}
+
+.animation {
+  background: green;
+  animation: move 5s infinite;
+}
+
+@keyframes move {
+  0% {
+    transform: translateX(0px);
+  }
+  50% {
+    transform: translateX(100px);
+    background: red;
+  }
+  75% {
+    transform: translateX(-100px);
+    background: yellow;
+  }
+} */
+
+/* Animation-Fill-Mode */
+div {
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+  color: white;
+}
+
+.animation {
+  background: blue;
+  animation: move 5s 2;
+  animation-fill-mode: forwards;
+}
+
+@keyframes move {
+  0% {
+    opacity: 0;
+  }
+  25% {
+    transform: translateX(200px);
+    opacity: 0.25;
+  }
+  50% {
+    transform: translateX(-100px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 0.5;
+  }
+}
