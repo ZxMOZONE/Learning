@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learn JavaScript</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <section class="welcome-box">
+      <p id="welcom-el"></p>
+      <script src="index.js"></script>
+    </section>
+
+    <section class="passenger-counter-app">
+      <h1 class="title">Passenger Counter App</h1>
+      <h1 class="app-title">People Entered:</h1>
+      <h2 id="count-el">0</h2>
+      <!-- Create an INCREMENT button with id="increment-btn" -->
+      <button id="increment-btn" onclick="increment()">INCREMENT</button>
+      <button id="save-btn" onclick="save()">SAVE</button>
+      <h3 id="save-el">Previous Entries:</h3>
+
+      <button id="reset-btn" onclick="reset()">RESET</button>
+      <script src="index_passengerApp.js"></script>
+    </section>
+  </body>
+</html>

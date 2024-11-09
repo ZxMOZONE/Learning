@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Challenges</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <button id="incr-el" onclick="add3Points()">ADD 3</button>
+    <button id="rmv-el" onclick="remove1Point()">RMV 1</button>
+    <button id="total-el" onclick="printResult()">TOTAL</button>
+    <button id="reset-el" onclick="resetPoints()">RESET</button>
+
+    <h3>Current Value:</h3>
+    <h3 id="current-el">0</h3>
+
+    <h3>Final Value:</h3>
+    <h3 id="final-el">0</h3>
+
+    <button onclick="purchaseShoes()">PURCHASE SHOES</button>
+    <p id="error"></p>
+
+    <h3>
+      <span id="num1-el"></span>
+      <span id="num2-el"></span>
+    </h3>
+
+    <button id="add-el" onclick="addNum()">+</button>
+    <button id="subtract-el" onclick="subtractNum()">-</button>
+    <button id="divide-el" onclick="divideNum()">/</button>
+    <button id="multiply-el" onclick="multiplyNum()">*</button>
+
+    <h3>SUM: <span id="sum-el">0</span></h3>
+
+    <script src="index.js"></script>
+  </body>
+</html>

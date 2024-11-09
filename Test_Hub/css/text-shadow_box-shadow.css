@@ -16,6 +16,8 @@ h1 {
   transition: all 0.5s linear;
 }
 
+/* Browser prefixes */
+
 .box:hover {
   -webkit-box-shadow: 26px 31px 45px -17px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 26px 31px 45px -17px rgba(0, 0, 0, 0.75);

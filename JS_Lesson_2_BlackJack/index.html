@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BlackJack</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <h1>BlackJack</h1>
+
+    <p id="message-el">Want to play a round?</p>
+    <p id="cards-el">Cards: 0 0</p>
+    <p id="sum-el">Sum: 0</p>
+
+    <div>
+      <button id="add-el-num1" onclick="add_num1()">NUM1 +</button>
+      <button id="subtract-el-num1" onclick="subtract_num1()">NUM1 -</button>
+    </div>
+    <div>
+      <button id="add-el-num2" onclick="add_num2()">NUM2 +</button>
+      <button id="subtract-el-num2" onclick="subtract_num2()">NUM2 -</button>
+    </div>
+
+    <button id="start-game" onclick="startGame()">START GAME</button>
+    <button id="new-card" onclick="newCard()">NEW CARD</button>
+
+    <p id="player-el"></p>
+    <!-- <h3 id="blackjack-el"></h3>
+    <h3 id="alive-el"></h3> -->
+
+    <h3 id="greeting-el"></h3>
+
+    <script src="index.js"></script>
+  </body>
+</html>

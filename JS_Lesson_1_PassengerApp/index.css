@@ -1,0 +1,26 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+.title {
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+
+button {
+  padding: 10px 10px;
+  /* color: white; */
+  /* font-weight: bold; */
+  width: 200px;
+  /* border: none; */
+  /* border-radius: 5px; */
+}
+
+#increment-btn {
+  /* background: red; */
+}
